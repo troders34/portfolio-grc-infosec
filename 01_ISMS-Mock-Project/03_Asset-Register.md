@@ -38,6 +38,11 @@ _All the information of Asset Register in this page is referenced from [Compares
 * Allowing to calculate depreciation
 * Estimating maintenance and repair costs
 
+## Administer Asset Register
+* Paper-based
+* General-purpose software: Spreadsheet, Excel
+* Specific-purpose software
+
 ## Example of Implementing Asset Register
 | Unique Asset ID | Location | Description | Serial Number | Purchase Date | Supplier Information | Purchase Cost | Depreciation Date | Owner |
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
