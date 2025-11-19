@@ -1,4 +1,4 @@
-## Asset Register
+# Asset Register
 > Asset Register refers to a detailed list of all business assets of all types.
 
 _All the information of Asset Register in this page is referenced from [Comparesoft Asset Register page](https://comparesoft.com/asset-management-software/what-is-an-asset-register/)._
