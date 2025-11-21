@@ -10,7 +10,7 @@ _More information about CSF Core is mentioned in **Appendix A. CSF Core**_
 ![NIST CSF Functions](https://www.nist.gov/sites/default/files/styles/2800_x_2800_limit/public/images/2023/08/07/CSF-wheel-revamp-final-white.png)
 
 ### Simple Explanation of CSF Core
-_This explanation is cited from NIST CSF 2.0 Section 2. Introduction to the CSF Core_
+_This explanation is cited from NIST CSF 2.0 Section 2. Introduction to the CSF Core._
 
 **CSF Core: Govern (GV)**
 
