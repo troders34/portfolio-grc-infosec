@@ -6,7 +6,7 @@ _This work is cited from NIST CSF website which is available online at [www.nist
 ### NIST CSF Core
 _It `organizes cybersecurity values at highest level`, meaning that it mentions the core values served in most undestandable language or term._
 
-_More detail about CSF Core is mentioned in **Appendix A. CSF Core**_
+_More information about CSF Core is mentioned in **Appendix A. CSF Core**_
 ![NIST CSF Functions](https://www.nist.gov/sites/default/files/styles/2800_x_2800_limit/public/images/2023/08/07/CSF-wheel-revamp-final-white.png)
 
 ### Simple Explanation of CSF Core
