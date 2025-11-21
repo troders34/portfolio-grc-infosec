@@ -17,6 +17,7 @@ _This explanation is cited from NIST CSF 2.0 Section 2. Introduction to the CSF 
 _=== an organization's cybersecurity risk management strategy, expectations, and policy are established, communicated, and monitored ===_
 - provides the most fundamental cybersecurity outcomes an organization needs to achieve on first action.
 - integrates critical Enterprise Risk Management (ERM) strategies.
+- informs the procedure in implementing other five Functions.
 
 **CSF Core: Identify (ID)**
 
@@ -49,4 +50,23 @@ _=== assets and operations affected by a cybersecurity incident are restored ===
 - supports immediate cybersecurity troubleshooting.
 - enable necessary communication during recovery efforts.
 
+### CSF Core as a Circle
+- should be addressed concurrently.
+- Functions are named to summarize the cybersecurity contents.
+- Categories are related to cybersecurity outcomes extracted from Functions.
+- Subcategories are defined into more technical and management outcomes from Categories.
+
 ![NIST CSF 2.0 Core Table 1](https://cybelangel.com/wp-content/uploads/2025/03/nist_framework_2_compliance.png)
+
+**About NIST CSF 2.0 Core Table**
+- order of Functions, Categories, and Subcategories of the Core is not alphabetical, instead it is intended to resonate most with operationalizing risk management within an organization.
+- numbering of Subcategories is intentionally not sequential.
+
+### Abbreviation
+- AI   = Artificial Intelligence
+- NIST = National Institute of Standards and Technology
+- CSF  = Cybersecurity Framework
+- IoT  = Internet of Things
+- IT   = Information Technology
+- OT   = Operational Technology
+- ICT  = Information and Communications Technology
