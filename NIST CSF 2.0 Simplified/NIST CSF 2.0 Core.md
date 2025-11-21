@@ -63,7 +63,6 @@ _=== assets and operations affected by a cybersecurity incident are restored ===
 - numbering of Subcategories is intentionally not sequential.
 
 ### Abbreviation
-- AI   = Artificial Intelligence
 - NIST = National Institute of Standards and Technology
 - CSF  = Cybersecurity Framework
 - IoT  = Internet of Things
