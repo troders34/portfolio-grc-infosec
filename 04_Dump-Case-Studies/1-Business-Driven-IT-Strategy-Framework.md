@@ -103,8 +103,6 @@ Fortify, The Business Launch Firm is a comprehensive business coaching firm. Dur
   - (d) internal IT team overwhelmed
 
 - **Risk assessment:**
-  - fdf
-  - fdf
 
 | Risk Impact Likelihood Matrix  | Minor    | Moderate  | Major    |
 | ------------------------------ |:--------:|:---------:|:--------:|
@@ -114,11 +112,21 @@ Fortify, The Business Launch Firm is a comprehensive business coaching firm. Dur
 | Very unlikely                  |          |           |          |
 
 - **Risk mitigation strategy:**
+  - familiarize cloud-based daily business operation with the Free Tier or Free Trial
+  - training employers with fundamental security awareness.
+
 - **Implementation of Controls:**
+  - configuring correctly IAM (Identity and Access Management) among employers and customers.
+ 
 - **Continuous Monitoring:**
+  - periodically check billing notifications.
+  - periodically check incident alerts.
+
 - **Risk Reporting and Review:**
+  - check cloud-operation spending and business income
+  - plan next agenda to update necessary operation later
 
-
+### References
 https://www.f6s.com/company/fortify-the-business-launch-firm
 https://www.vagaro.com/bffuca
 https://trudibparson.com/
